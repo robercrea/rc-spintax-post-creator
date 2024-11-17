@@ -1,0 +1,127 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Spintax Post Creator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-17 16:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.13; wp-6.7\n"
+"X-Domain: rc-spintax-post-creator"
+
+#: admin/menu/pages/main.php:113
+msgid "Create pages or posts"
+msgstr ""
+
+#. Description of the plugin
+msgid "Create posts and pages using your spintax text"
+msgstr ""
+
+#: admin/menu/pages/main.php:28
+msgid "Create Posts or Pages"
+msgstr ""
+
+#: admin/menu/pages/main.php:75
+msgid "Draft"
+msgstr ""
+
+#: admin/menu/pages/main.php:119
+msgid "Fill with TEST content"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://robercrea.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://robercrea.com/plugins-wordpress/spintax-post-creator/"
+msgstr ""
+
+#: admin/menu/pages/main.php:104
+msgid "Keyword (One each line)"
+msgstr ""
+
+#: admin/menu/pages/main.php:107
+msgid "Keywords"
+msgstr ""
+
+#: admin/menu/pages/main.php:66
+msgid "Page"
+msgstr ""
+
+#: admin/menu/pages/main.php:65
+msgid "Post"
+msgstr ""
+
+#: admin/menu/pages/main.php:74
+msgid "Publish"
+msgstr ""
+
+#: admin/menu/pages/main.php:62
+msgid "Publish as Page or Post?"
+msgstr ""
+
+#: admin/menu/pages/main.php:71
+msgid "Publish or Draft"
+msgstr ""
+
+#: admin/menu/pages/inc/footer.php:23
+msgid "Report Bug/Leave Comment"
+msgstr ""
+
+#. Author of the plugin
+msgid "Rober Crea"
+msgstr ""
+
+#: admin/menu/register.php:18 admin/menu/register.php:28
+#: admin/menu/register.php:29
+msgid "Spintax"
+msgstr ""
+
+#: admin/menu/register.php:17
+msgid "Spintax creator"
+msgstr ""
+
+#: admin/menu/pages/main.php:99
+msgid "Spintax for Text"
+msgstr ""
+
+#: admin/menu/pages/main.php:91
+msgid "Spintax for Title"
+msgstr ""
+
+#. Name of the plugin
+#: admin/menu/pages/inc/header.php:17
+msgid "Spintax Post Creator"
+msgstr ""
+
+#: admin/menu/pages/main.php:96
+msgid "Spintax Text"
+msgstr ""
+
+#: admin/menu/pages/main.php:88
+msgid "Spintax Title"
+msgstr ""
+
+#: admin/menu/pages/inc/footer.php:21
+msgid "to discover more plugins!"
+msgstr ""
+
+#: admin/menu/pages/main.php:83
+msgid "To Replace"
+msgstr ""
+
+#: admin/menu/pages/inc/footer.php:19
+msgid "Visit"
+msgstr ""
+
+#: admin/menu/pages/main.php:80
+msgid "Word from text to replace with the Keyword"
+msgstr ""
